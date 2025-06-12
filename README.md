@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @Rikcr7
+- 👋 Hi, I’m Rik
 
-- 🌱 I’m currently learning Javascript...
-- 💞️ I’m looking to collaborate on ...
-- 📫 Reach me : rikdas7100@gmail.com, 
-                https://www.linkedin.com/in/rik-das-259b9a30a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
+- 🌱 I’m currently learning React 
+- 📫 Reach me : rikdas7100@gmail.com, and my LinkedIn profile
+
+
+
+                
 
 <!---
 Rikcr7/Rikcr7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
