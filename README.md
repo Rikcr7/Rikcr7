@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **rikdas7100@gmail.com**
 
-- ⚡ Fun fact **I think I'm a professional procastinator**
+- ⚡ Fun fact **I think i'm a professional procastinator**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
